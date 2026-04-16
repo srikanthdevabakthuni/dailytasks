@@ -12,7 +12,7 @@
 
   wordpress.org is self hosted with full control where as wordpress.com is hosted with limitations
 
-  #T ask 2
+  # Task 2
 
   ##Creation & Configuration
 
@@ -35,6 +35,6 @@
 
     ##Documentation & Output
 
-     Documented the differences between website types, WordPress. Ensured clarity in explaining each concept 
+    Documented the differences between website types, WordPress. Ensured clarity in explaining each concept 
 
   
