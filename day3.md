@@ -120,7 +120,7 @@ These are like keywords
 
 
 
-# 📄 Task 5: Documentation + Demo Output
+#  Task 5: Documentation + Demo Output
 
 ##  Steps Summary
 1. Accessed Dashboard  
