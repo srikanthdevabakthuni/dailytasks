@@ -35,7 +35,7 @@ With plugins we can import demo data by clicking one import data plugin
 4. Click Install → Activate  
 
 
-## 🔌 Install Plugins
+##  Install Plugins
 1. Go to Dashboard → Plugins → Add New  
 2. Search for plugins  
 3. Click Install → Activate  
@@ -98,7 +98,6 @@ http://localhost/srikanth-com/
 http://localhost/srikanth-com/wp-admin/plugins.php
   
 
-### Admin Panel:
-http://localhost/mysite/wp-admin  
+
 
 
